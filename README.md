@@ -9,4 +9,4 @@ makes spelling checks, recommends possible words, remembers new addition of word
 * Otherwise It will give suggestions of possible corrections
 * User can accept the suggestions or choose to add incorrectly spelled word into the Dictionary. 
 
-### Warning: Do NOT remove a column from the Full_Dictionary.csv file
+### Warning: Do NOT remove a column from the dictionary.csv file
